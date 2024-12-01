@@ -1,0 +1,11 @@
+main.c:95:8:LD3_On	1
+main.c:83:5:main	2
+main.c:100:8:LD3_Off	1
+main.c:192:6:SystemClock_Config	3
+main.c:238:13:MX_ADC1_Init	3
+main.c:290:13:MX_ADC2_Init	3
+main.c:342:13:MX_ADC3_Init	3
+main.c:394:13:MX_UART5_Init	2
+main.c:425:13:MX_DMA_Init	1
+main.c:449:13:MX_GPIO_Init	1
+main.c:485:6:Error_Handler	1
